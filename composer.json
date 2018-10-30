@@ -1,0 +1,10 @@
+{
+    "name": "user/composer-lab-assets",
+    "authors": [
+        {
+            "name": "3A417118",
+            "email": "s3A417118@student.ncut.edu.tw"
+        }
+    ],
+    "require": {"nesbot/carbon": "^1.21"}
+}
